@@ -1,0 +1,5 @@
+item,id,type,condition
+Mars Rover,100,Rover,Fair
+Venus Explorer,101,Spaceship,Excellent
+Lunar Rover,102,Rover,Fair
+30% Sun Filter,103,Sun Filter,Poor
